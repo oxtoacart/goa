@@ -1,0 +1,7 @@
+github.com/oxtoacart/gob v0.0.0-20201028193251-7b5b3d9ccff5 h1:0kKvm7Y8lmUVH/i+wUVl/2JCqlmBI+4s35rD+hPo1yw=
+github.com/oxtoacart/gob v0.0.0-20201028193251-7b5b3d9ccff5/go.mod h1:SBlAvVAyW2wIbyFq7SX0uZvOxhV/losK0/QoznZIutQ=
+github.com/oxtoacart/goc v0.0.0-20201028194240-313c922f0298 h1:LfNTIrMleJ3tDYSnH1CAyVdKCqFxUh15gZ6QC3x004o=
+github.com/oxtoacart/goc v0.0.0-20201028194240-313c922f0298/go.mod h1:JlAC4PBCnTVoz6iq39dKGzOrqDVSnxNZBDTZmX2lhpk=
+github.com/oxtoacart/god v1.0.0/go.mod h1:FKOMdBagtWDoWy9BcGjJmeex3yvSh8OCAibtkpdcD10=
+github.com/oxtoacart/god v1.0.1-0.20201028193110-3f8210a56fc0 h1:p6T35vQnIzMUWEhSbJLrXlvH7op3JsT6mmUelbyfjFU=
+github.com/oxtoacart/god v1.0.1-0.20201028193110-3f8210a56fc0/go.mod h1:FKOMdBagtWDoWy9BcGjJmeex3yvSh8OCAibtkpdcD10=
